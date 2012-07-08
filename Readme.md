@@ -15,7 +15,7 @@ according to your own preferences. Pull requests will also be considered.
 
 If you report a bug, please try to:
 
-* Perform a web / github search to avoid creating a duplicate ticket.
+* Perform a web / GitHub search to avoid creating a duplicate ticket.
 * Include enough information to reproduce the problem.
 * Mention the exact version of the project causing you problems, as well as
   any related software and versions (such as operating system, browser, etc.).
