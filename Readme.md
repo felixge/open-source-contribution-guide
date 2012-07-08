@@ -1,6 +1,6 @@
 # Open Source Contribution Guide
 
-This is a guide for people interested in contribution to my open source
+This is a guide for people interested in contributing to my open source
 projects. It is based on popular work flows in the community, and my personal
 opinions.
 
