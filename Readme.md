@@ -45,9 +45,9 @@ If you want to contribute code, please try to:
   test, explain why.
 * Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html),
   explain what your patch does, and why it is needed.
-* Keep it simple: Any patch changes a lot of code or is difficult to understand
-  should be discussed before you put in the effort. See the "Asking Questions"
-  section for that.
+* Keep it simple: Any patch that changes a lot of code or is difficult to
+  understand should be discussed before you put in the effort. See the "Asking
+  Questions" section for that.
 * Create a github pull request to notify me of your changes.
 
 ## Be Nice
