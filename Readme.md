@@ -19,6 +19,8 @@ If you report a bug, please try to:
 * Include enough information to reproduce the problem.
 * Mention the exact version of the project causing you problems, as well as
   any related software and versions (such as operating system, browser, etc.).
+* Test against the latest version of the project (and if possible also the
+  master branch) to see if the problem has already been fixed.
 
 ## Asking Questions
 
