@@ -52,4 +52,4 @@ If you want to contribute code, please try to:
 
 ## Be Nice
 
-You are using stuff I made available to you for free, so be nice to me.
+You are using stuff I made available to you for free, so try to be nice.
