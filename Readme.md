@@ -22,6 +22,9 @@ If you report a bug, please try to:
 * Test against the latest version of the project (and if possible also the
   master branch) to see if the problem has already been fixed.
 
+Once you have tried the above, create a GitHub issue notify me of your bug
+report.
+
 ## Asking Questions
 
 Depending on the nature and urgency of your question, pick one of the following
@@ -51,7 +54,9 @@ If you want to contribute code, please try to:
   explain what your patch does, and why it is needed.
 * Keep it simple: Any patch that changes a lot of code or is difficult to
   understand should be discussed before you put in the effort.
-* Create a github pull request to notify me of your changes.
+
+Once you have tried the above, create a GitHub pull request to notify me of your
+changes.
 
 ## Be Nice
 
