@@ -27,6 +27,7 @@ mentioned order:
 
 1. Project Mailing List (if existing)
 1. Project IRC Channel (if existing)
+1. StackOverflow
 1. GitHub Issues
 
 Do *not* email me directly, unless you want to inquiry about commercial support
