@@ -22,12 +22,14 @@ If you report a bug, please try to:
 
 ## Asking Questions
 
-Depending on the project, try the following channels, preferably in the
-mentioned order:
+Depending on the nature and urgency of your question, pick one of the following
+channels for it:
 
-1. Project Mailing List (if existing)
-1. Project IRC Channel (if existing)
-1. GitHub Issues
+* Search the web for it, you've done that already, right?
+* Project Mailing List (if existing)
+* Project IRC Channel (if existing)
+* StackOverflow (I may not check there myself)
+* GitHub Issues
 
 Do *not* email me directly, unless you want to inquiry about commercial support
 or have a very good reason. I do not have enough time to provide personal
